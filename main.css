@@ -15,7 +15,7 @@
 }
 
 body {
-  background-color: var(--grayish-blue);
+  background-color: var(--light-gray);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -32,7 +32,7 @@ body {
 
 .qr-code img {
   width: 100%;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .card h1 {
